@@ -16,7 +16,7 @@ func main() {
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>แสดง PDF เต็มจอ</title>
+  <title>Thesis ADDMS</title>
   <style>
     html, body {
       height:100%;
